@@ -1,6 +1,6 @@
-# PyCLI by Alicia
+# PyCLI
 
-Welcome to **PyCLI by Alicia**, your personal command-line interface built with Python! This CLI application mimics basic Linux shell commands and introduces unique features to enhance your command-line experience. Dive in and explore the functionalities of PyCLI!
+Welcome to **PyCLI**, your personal command-line interface built with Python! This CLI application mimics basic Linux shell commands and introduces unique features to enhance your command-line experience. Dive in and explore the functionalities of PyCLI!
 
 ---
 
